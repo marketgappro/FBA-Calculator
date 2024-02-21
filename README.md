@@ -1,5 +1,3 @@
-# Mastering Amazon Sales with the FBA Calculator Chrome Extension
-
 ## Introduction
 
 Elevate your Amazon selling game with the FBA Calculator Chrome Extension, your go-to tool for navigating the complexities of Fulfillment by Amazon (FBA). This guide is crafted to help sellers across the globe, from the bustling marketplaces of Canada and France to the emerging platforms in India and Japan, harness the power of precise calculations for fees, profit margins, and cost management strategies.
